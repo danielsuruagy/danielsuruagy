@@ -10,18 +10,25 @@ Atualmente trabalhando na área de desenvolvimento, criando sites e aplicações
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Javasricpt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="WordPress" height="30" width="40" color="white" src="https://skillicons.dev/icons?i=wordpress">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="MySQL" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="center" alt="WordPress" height="30" width="40" color="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg">
 </div>
 <br/>
 
 ### 📊 Estatísticas
 
 <p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Daniel-Suruagy&show_icons=true&theme=tokyonight&locale=pt-br" />
-  <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Suruagy&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Daniel-Suruagy&show_icons=true&theme=tokyonight&locale=pt-br"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Daniel-Suruagy&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
 </p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Daniel-Suruagy/Daniel-Suruagy/output/snake.svg" alt="Snake animation" />
+
+###
