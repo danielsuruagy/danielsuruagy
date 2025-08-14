@@ -1,14 +1,10 @@
 # 👨🏻‍💻 Daniel Suruagy
-
 **`Desenvolvedor FullStack`**
 
-Formado em Análise e Desenvolvimento de Sistemas e cursando 3º período em Engenharia de Software.
-Desenvolvedor com experiência em HTML, CSS, JavaScript, PHP, MySQL e WordPress.
-Atualmente trabalhando na área de desenvolvimento, criando sites e aplicações com interfaces responsivas, acessíveis e centradas na experiência do usuário.
-Sigo aprendendo novas linguagens de programação para me consolidar cada vez mais no mercado de trabalho.
+Formado em Análise e Desenvolvimento de Sistemas e cursando 3º período em Engenharia de Software.Desenvolvedor com experiência em HTML, CSS, JavaScript, PHP, MySQL e WordPress.
+Atualmente trabalhando na área de desenvolvimento, criando sites e aplicações com interfaces responsivas, acessíveis e centradas na experiência do usuário. Sigo aprendendo novas linguagens de programação para me consolidar cada vez mais no mercado de trabalho.
 
 ---
-
 ### Linguagens e Tecnologias
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,23 +17,11 @@ Sigo aprendendo novas linguagens de programação para me consolidar cada vez ma
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="WordPress" height="30" width="40" color="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg">
 </div>
-
 <br/>
 
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Daniel-Suruagy&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Suruagy&theme=tokyonight&include_all_commits=true&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Daniel-Suruagy&show_icons=true&theme=tokyonight&locale=pt-br" />
+  <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Suruagy&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
