@@ -1,9 +1,8 @@
 # 👨🏻‍💻 Daniel Suruagy
 **`Desenvolvedor FullStack`**
 
-Formado em Análise e Desenvolvimento de Sistemas e cursando 3º período em Engenharia de Software.Desenvolvedor com experiência em HTML, CSS, JavaScript, PHP, MySQL e WordPress.
-Atualmente trabalhando na área de desenvolvimento, criando sites e aplicações com interfaces responsivas, acessíveis e centradas na experiência do usuário. Sigo aprendendo novas linguagens de programação para me consolidar cada vez mais no mercado de trabalho.
-
+Formado em Análise e Desenvolvimento de Sistemas e cursando 3º período em Engenharia de Software. Desenvolvedor Web com experiência em HTML, CSS, JavaScript, PHP, C#, Python, MySQL e WordPress. Focado no desenvolvimento de aplicações, intuitivas, com arquitetura limpa e performance otimizada.
+Atualmente trabalhando na área de desenvolvimento de software, criando sites e aplicações com interfaces responsivas, acessíveis e centradas na experiência do usuário. Sigo aprendendo novas linguagens de programação para me consolidar cada vez mais no mercado de trabalho.
 ---
 ### Linguagens e Tecnologias
 <div style="display: inline_block">
@@ -17,9 +16,6 @@ Atualmente trabalhando na área de desenvolvimento, criando sites e aplicações
   <img align="center" alt="MySQL" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 <br/>
-
-### 📊 Estatísticas
-
 <p>
   <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10;" src="https://github-readme-stats.vercel.app/api?username=danielsuuagy&show_icons=true&theme=tokyonight&locale=pt-br"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielsuruagy&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
