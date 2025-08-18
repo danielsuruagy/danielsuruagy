@@ -18,6 +18,6 @@ Atualmente trabalhando na área de desenvolvimento de software, criando sites e 
 </div>
 <br/>
 <p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10;" src="https://github-readme-stats.vercel.app/api?username=danielsuuagy&show_icons=true&theme=tokyonight&locale=pt-br"/>
+  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10;" src="https://github-readme-stats.vercel.app/api?username=danielsuruagy&show_icons=true&theme=tokyonight&locale=pt-br"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielsuruagy&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
 </p>
