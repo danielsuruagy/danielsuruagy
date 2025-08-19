@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Daniel Suruagy
 **`Desenvolvedor FullStack`**
 
-Formado em Análise e Desenvolvimento de Sistemas e cursando 3º período em Engenharia de Software. Desenvolvedor Web com experiência em HTML, CSS, JavaScript, PHP, C#, Python, MySQL e WordPress. Focado no desenvolvimento de aplicações, intuitivas, com arquitetura limpa e performance otimizada.
+Formado em Análise e Desenvolvimento de Sistemas e cursando 3º período em Engenharia de Software. Desenvolvedor com experiência em HTML, CSS, JavaScript, PHP, C#, Python, MySQL e WordPress. Focado no desenvolvimento de aplicações, intuitivas, com arquitetura limpa e performance otimizada.
 Atualmente trabalhando na área de desenvolvimento de software, criando sites e aplicações com interfaces responsivas, acessíveis e centradas na experiência do usuário. Sigo aprendendo novas linguagens de programação para me consolidar cada vez mais no mercado de trabalho.
 
 ---
