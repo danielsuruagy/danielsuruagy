@@ -17,7 +17,7 @@ Atualmente trabalhando na área de desenvolvimento de software, criando sites e 
   <img align="center" alt="WordPress" height="30" width="40" color="white" src="https://skillicons.dev/icons?i=wordpress">
 </div>
 <br/>
-<p>
-  <img align="left" alt="GitHub Status" height="200" style="padding-right: 10;" src="https://github-readme-stats.vercel.app/api?username=danielsuruagy&show_icons=true&theme=tokyonight&locale=pt-br"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielsuruagy&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="Gráfico de linguagens" />
-</p>
+<br/>
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=danielsuruagy&locale=pt-br&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
