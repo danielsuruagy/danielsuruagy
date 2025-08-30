@@ -1,10 +1,17 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=bb9af7"/>
 
-# 👨🏻‍💻 Daniel Suruagy do Nascimento
-**`Desenvolvedor FullStack`**
+<div align="center">
+  <samp>
+      Hello! I'm <b>Daniel Suruagy</b>
+  </samp>
+</div>
+<br>
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=bb9af7&width=900&size=22&center=true&lines=I+am+a+FullStack+Developer;Be+Welcome!" alt="Typing SVG"/>
+</div>
 
----
-### 🚀 Sobre mim
+##
+### 🚀 About Me
 
 Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso o 3º período de Engenharia de Software.
 
@@ -12,8 +19,8 @@ Tenho 2 anos de experiência na área de tecnologia, atuando principalmente no d
 
 Sou movido por desafios, focado e curioso, sempre em busca de aprender novas linguagens de programação para me consolidar ainda mais no mercado de trabalho.
 
----
-### ⚒️ Linguagens e Tecnologias
+##
+### ⚒️ Languages and Technologies
 <div align="center" style="display: inline_block">
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -27,7 +34,7 @@ Sou movido por desafios, focado e curioso, sempre em busca de aprender novas lin
 </div>
 <br/>
 
----
+##
 ### 📊 GitHub Stats
 <div align="center">
   <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=danielsuruagy&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"/>
