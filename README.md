@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=bb9af7"/>
+
 # 👨🏻‍💻 Daniel Suruagy do Nascimento
 **`Desenvolvedor FullStack`**
 
@@ -31,3 +33,4 @@ Sou movido por desafios, focado e curioso, sempre em busca de aprender novas lin
   <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=danielsuruagy&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"/>
   <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsuruagy&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"/>
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bb9af7&height=100&section=footer"/>
