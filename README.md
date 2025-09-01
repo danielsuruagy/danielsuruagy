@@ -38,8 +38,8 @@ Sou movido por desafios, focado e curioso, sempre em busca de aprender novas lin
 ##
 ### 📊 GitHub Stats
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=danielsuruagy&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsuruagy&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"/>
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=danielsuruagy1&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsuruagy1&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9d4edd&height=100&section=footer"/>
