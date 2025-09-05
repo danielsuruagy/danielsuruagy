@@ -31,7 +31,6 @@ Sou movido por desafios, focado e curioso, sempre em busca de aprender novas lin
   <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="center" alt="MySQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="WordPress" height="40" width="50" color="white" src="https://skillicons.dev/icons?i=wordpress">
 </div>
 <br/>
 
